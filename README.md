@@ -17,9 +17,9 @@ Hello, I'm Amashiro Natsuki, you can call me Xiao A. I'm a full-stack developer 
 
 ## GitHub Statistics 
 
-[![Amashiro-Natsuki0796's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amashiro-Natsuki0796&count_private=true&show_icons=true&theme=radical&locale=en&layout=compact)](https://github.com/Amashiro-Natsuki0796#gh-dark-mode-only)
+[![Amashiro-Natsuki0796's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amashiro-Natsuki0796&count_private=true&show_icons=true&theme=radical&locale=en&layout=compact)](https://github.com/Amashiro-Natsuki0796)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amashiro-Natsuki0796&theme=catppuccin_mocha&locale=en&layout=compact)](https://github.com/Amashiro-Natsuki0796#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amashiro-Natsuki0796&theme=catppuccin_mocha&locale=en&layout=compact)](https://github.com/Amashiro-Natsuki0796)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amashiro-Natsuki0796&theme=catppuccin-mocha&locale=en&rand=1)](https://streak-stats.demolab.com?user=Amashiro-Natsuki0796)
 ### PGP Public Key
