@@ -33,7 +33,7 @@ Key ID: `B8F7BE30BED83EB2`
 
 [Download PGP Public Key](./publickey.asc)
 
-# Contact me? Please use the following email:
+# Contact me? Please use the following email：😘
     amashiro.natsuki0796@gmail.com
 
 # My Home：
