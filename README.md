@@ -6,7 +6,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-800080?style=rounded&logo=markdown&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-795548?style=rounded&logo=openjdk&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=rounded&logo=nvidia&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-2F2F2F?style=rounded&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-8B0000?style=rounded&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=rounded&logo=linux&logoColor=black)
 
 ## GitHub 统计数据 
