@@ -12,10 +12,11 @@
 ## GitHub 统计数据 
 
 
+[![Amashiro-Natsuki0796's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amashiro-Natsuki0796&count_private=true&show_icons=true&theme=catppuccin_latte&locale=zh-cn&layout=compact)](https://github.com/Amashiro-Natsuki0796#gh-light-mode-only)
 [![Amashiro-Natsuki0796's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amashiro-Natsuki0796&count_private=true&show_icons=true&theme=catppuccin_mocha&locale=zh-cn&layout=compact)](https://github.com/Amashiro-Natsuki0796#gh-dark-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amashiro-Natsuki0796&theme=catppuccin_latte&locale=zh-cn&layout=compact)](https://github.com/Amashiro-Natsuki0796#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amashiro-Natsuki0796&theme=catppuccin_mocha&locale=zh-cn&layout=compact)](https://github.com/Amashiro-Natsuki0796#gh-dark-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amashiro-Natsuki0796&theme=catppuccin-mocha&locale=zh_Hans)](https://git.io/streak-stats)
-
-![Shell](https://img.shields.io/badge/Shell-2F2F2F?style=rounded&logo=gnu-bash&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amashiro-Natsuki0796&theme=catppuccin-latte&locale=zh_Hans)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amashiro-Natsuki0796&theme=catppuccin-mocha&locale=zh_Hans)](https://git.io/streak-stats#gh-dark-mode-only)
