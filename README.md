@@ -17,3 +17,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amashiro-Natsuki0796&theme=catppuccin_mocha&locale=zh-cn&layout=compact)](https://github.com/Amashiro-Natsuki0796#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amashiro-Natsuki0796&theme=catppuccin-mocha&locale=zh_Hans)](https://git.io/streak-stats)
+
+666
