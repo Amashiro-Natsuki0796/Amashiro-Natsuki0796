@@ -18,4 +18,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amashiro-Natsuki0796&theme=catppuccin-mocha&locale=zh_Hans)](https://git.io/streak-stats)
 
-666
+![Shell](https://img.shields.io/badge/Shell-2F2F2F?style=rounded&logo=gnu-bash&logoColor=white)
