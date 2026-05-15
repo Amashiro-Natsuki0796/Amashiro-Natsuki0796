@@ -2,7 +2,7 @@
 
 Hello, I'm Amashiro Natsuki, you can call me Xiao A. I'm a full-stack developer who works across platforms and architectures, doing development, porting, and embedded systems. I also enjoy playing Minecraft, VR Chat, and PUBG. I hope my creativity will be appreciated by everyone 😊
 
-![VRC](./vrc.png) 
+![VRC](./VR-Chat.png) 
 
 ## Tech Stack
 
@@ -26,10 +26,10 @@ Hello, I'm Amashiro Natsuki, you can call me Xiao A. I'm a full-stack developer 
 
 Key ID: `B8F7BE30BED83EB2`
 
-[Download PGP Public Key](./publickey.asc)
+[Download PGP Public Key](./Publickey.asc)
 
 # Contact me? Please use the following email：😘
     amashiro.natsuki0796@gmail.com
 
 # My Home：
-![MC](./mc.png)
+![MC](./Minecraft.png)
